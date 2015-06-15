@@ -1,0 +1,418 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1439" measuredH="1009" mockupW="878" mockupH="970">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="561" y="39" w="878" h="970" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="-1"/>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Title" x="605" y="72" w="-1" h="-1" measuredW="195" measuredH="43" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Rass%20Derb</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="__group__" x="602" y="154" w="791" h="42" measuredW="791" measuredH="42" zOrder="2" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="791" h="40" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="10"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Paragraph" x="49" y="11" w="730" h="31" measuredW="275" measuredH="80" zOrder="1" locked="false" isInGroup="10">
+          <controlProperties>
+            <size>18</size>
+            <text>Laravel</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Icon" x="14" y="8" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="2" locked="false" isInGroup="10">
+          <controlProperties>
+            <icon>SearchIcon%7Csmall</icon>
+            <rotation>270</rotation>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::LinkBar" x="1301" y="84" w="-1" h="-1" measuredW="92" measuredH="19" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Join%20us%2C%20Login</text>
+      </controlProperties>
+    </control>
+    <control controlID="45" controlTypeID="__group__" x="605" y="609" w="791" h="27" measuredW="791" measuredH="27" zOrder="9" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Title" x="0" y="0" w="-1" h="-1" measuredW="65" measuredH="27" zOrder="0" locked="false" isInGroup="45">
+          <controlProperties>
+            <size>24</size>
+            <text>Users</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::HRule" x="89" y="8" w="702" h="-1" measuredW="100" measuredH="10" zOrder="1" locked="false" isInGroup="45"/>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="46" controlTypeID="__group__" x="602" y="240" w="791" h="27" measuredW="791" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Title" x="0" y="0" w="-1" h="-1" measuredW="79" measuredH="27" zOrder="0" locked="false" isInGroup="46">
+          <controlProperties>
+            <size>24</size>
+            <text>Groups</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::HRule" x="89" y="8" w="702" h="-1" measuredW="100" measuredH="10" zOrder="1" locked="false" isInGroup="46"/>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="47" controlTypeID="__group__" x="1012" y="291" w="381" h="132" measuredW="381" measuredH="132" zOrder="6" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="10" w="381" h="112" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="47"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="14" y="0" w="111" h="132" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="47"/>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="55" y="56" w="-1" h="-1" measuredW="29" measuredH="21" zOrder="2" locked="false" isInGroup="47">
+          <controlProperties>
+            <text>Logo</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Title" x="140" y="25" w="-1" h="-1" measuredW="216" measuredH="23" zOrder="3" locked="false" isInGroup="47">
+          <controlProperties>
+            <size>20</size>
+            <text>Moroccan%20PHP%20Artisans</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Paragraph" x="140" y="55" w="216" h="53" measuredW="275" measuredH="80" zOrder="4" locked="false" isInGroup="47">
+          <controlProperties>
+            <text>We%20are%20a%20User%20Group%20of%20PHP%20developers%20from%20Morocco.%20We%20focus%20on%20the%20Laravel%20framework.%20</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="48" controlTypeID="__group__" x="606" y="447" w="381" h="132" measuredW="381" measuredH="132" zOrder="7" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="10" w="381" h="112" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="48"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="14" y="0" w="111" h="132" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="48"/>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="55" y="56" w="-1" h="-1" measuredW="29" measuredH="21" zOrder="2" locked="false" isInGroup="48">
+          <controlProperties>
+            <text>Logo</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Title" x="140" y="25" w="-1" h="-1" measuredW="216" measuredH="23" zOrder="3" locked="false" isInGroup="48">
+          <controlProperties>
+            <size>20</size>
+            <text>Moroccan%20PHP%20Artisans</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Paragraph" x="140" y="55" w="216" h="53" measuredW="275" measuredH="80" zOrder="4" locked="false" isInGroup="48">
+          <controlProperties>
+            <text>We%20are%20a%20User%20Group%20of%20PHP%20developers%20from%20Morocco.%20We%20focus%20on%20the%20Laravel%20framework.%20</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="49" controlTypeID="__group__" x="1012" y="447" w="381" h="132" measuredW="381" measuredH="132" zOrder="8" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="10" w="381" h="112" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="49"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="14" y="0" w="111" h="132" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="49"/>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="55" y="56" w="-1" h="-1" measuredW="29" measuredH="21" zOrder="2" locked="false" isInGroup="49">
+          <controlProperties>
+            <text>Logo</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Title" x="140" y="25" w="-1" h="-1" measuredW="216" measuredH="23" zOrder="3" locked="false" isInGroup="49">
+          <controlProperties>
+            <size>20</size>
+            <text>Moroccan%20PHP%20Artisans</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Paragraph" x="140" y="55" w="216" h="53" measuredW="275" measuredH="80" zOrder="4" locked="false" isInGroup="49">
+          <controlProperties>
+            <text>We%20are%20a%20User%20Group%20of%20PHP%20developers%20from%20Morocco.%20We%20focus%20on%20the%20Laravel%20framework.%20</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="50" controlTypeID="__group__" x="606" y="291" w="381" h="132" measuredW="381" measuredH="132" zOrder="5" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="10" w="381" h="112" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="50"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="14" y="0" w="111" h="132" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="50"/>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="55" y="56" w="-1" h="-1" measuredW="29" measuredH="21" zOrder="2" locked="false" isInGroup="50">
+          <controlProperties>
+            <text>Logo</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Title" x="140" y="25" w="-1" h="-1" measuredW="216" measuredH="23" zOrder="3" locked="false" isInGroup="50">
+          <controlProperties>
+            <size>20</size>
+            <text>Moroccan%20PHP%20Artisans</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Paragraph" x="140" y="55" w="216" h="53" measuredW="275" measuredH="80" zOrder="4" locked="false" isInGroup="50">
+          <controlProperties>
+            <text>We%20are%20a%20User%20Group%20of%20PHP%20developers%20from%20Morocco.%20We%20focus%20on%20the%20Laravel%20framework.%20</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="59" controlTypeID="__group__" x="602" y="663" w="364" h="149" measuredW="364" measuredH="149" zOrder="10" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="0" w="149" h="149" measuredW="32" measuredH="32" zOrder="1" locked="false" isInGroup="59">
+          <controlProperties>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="35" y="64" w="-1" h="-1" measuredW="78" measuredH="21" zOrder="2" locked="false" isInGroup="59">
+          <controlProperties>
+            <text>Profile%20Image</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Title" x="157" y="38" w="-1" h="-1" measuredW="192" measuredH="23" zOrder="3" locked="false" isInGroup="59">
+          <controlProperties>
+            <size>20</size>
+            <text>Motaquillah%20Maddane</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Paragraph" x="157" y="62" w="192" h="14" measuredW="275" measuredH="80" zOrder="4" locked="false" isInGroup="59">
+          <controlProperties>
+            <text>Fullstack%20developer</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Icon" x="157" y="85" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="5" locked="false" isInGroup="59">
+          <controlProperties>
+            <icon>LinkGlobeIcon%7Csmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::Icon" x="190" y="85" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="6" locked="false" isInGroup="59">
+          <controlProperties>
+            <icon>TwitterIcon%7Csmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::Icon" x="225" y="85" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="7" locked="false" isInGroup="59">
+          <controlProperties>
+            <icon>RedditIcon%7Csmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::Icon" x="256" y="85" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="8" locked="false" isInGroup="59">
+          <controlProperties>
+            <icon>EmailIcon%7Csmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="8" controlTypeID="com.balsamiq.mockups::Canvas" x="119" y="27" w="245" h="97" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="59"/>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="60" controlTypeID="__group__" x="602" y="663" w="364" h="149" measuredW="364" measuredH="149" zOrder="11" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="0" w="149" h="149" measuredW="32" measuredH="32" zOrder="1" locked="false" isInGroup="60">
+          <controlProperties>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="35" y="64" w="-1" h="-1" measuredW="78" measuredH="21" zOrder="2" locked="false" isInGroup="60">
+          <controlProperties>
+            <text>Profile%20Image</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Title" x="157" y="38" w="-1" h="-1" measuredW="192" measuredH="23" zOrder="3" locked="false" isInGroup="60">
+          <controlProperties>
+            <size>20</size>
+            <text>Motaquillah%20Maddane</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Paragraph" x="157" y="62" w="192" h="14" measuredW="275" measuredH="80" zOrder="4" locked="false" isInGroup="60">
+          <controlProperties>
+            <text>Fullstack%20developer</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Icon" x="157" y="85" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="5" locked="false" isInGroup="60">
+          <controlProperties>
+            <icon>LinkGlobeIcon%7Csmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::Icon" x="190" y="85" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="6" locked="false" isInGroup="60">
+          <controlProperties>
+            <icon>TwitterIcon%7Csmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::Icon" x="225" y="85" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="7" locked="false" isInGroup="60">
+          <controlProperties>
+            <icon>RedditIcon%7Csmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::Icon" x="256" y="85" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="8" locked="false" isInGroup="60">
+          <controlProperties>
+            <icon>EmailIcon%7Csmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="8" controlTypeID="com.balsamiq.mockups::Canvas" x="119" y="27" w="245" h="97" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="60"/>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="61" controlTypeID="__group__" x="1029" y="663" w="364" h="149" measuredW="364" measuredH="149" zOrder="12" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="0" w="149" h="149" measuredW="32" measuredH="32" zOrder="1" locked="false" isInGroup="61">
+          <controlProperties>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="35" y="64" w="-1" h="-1" measuredW="78" measuredH="21" zOrder="2" locked="false" isInGroup="61">
+          <controlProperties>
+            <text>Profile%20Image</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Title" x="157" y="38" w="-1" h="-1" measuredW="192" measuredH="23" zOrder="3" locked="false" isInGroup="61">
+          <controlProperties>
+            <size>20</size>
+            <text>Motaquillah%20Maddane</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Paragraph" x="157" y="62" w="192" h="14" measuredW="275" measuredH="80" zOrder="4" locked="false" isInGroup="61">
+          <controlProperties>
+            <text>Fullstack%20developer</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Icon" x="157" y="85" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="5" locked="false" isInGroup="61">
+          <controlProperties>
+            <icon>LinkGlobeIcon%7Csmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::Icon" x="190" y="85" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="6" locked="false" isInGroup="61">
+          <controlProperties>
+            <icon>TwitterIcon%7Csmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::Icon" x="225" y="85" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="7" locked="false" isInGroup="61">
+          <controlProperties>
+            <icon>RedditIcon%7Csmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::Icon" x="256" y="85" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="8" locked="false" isInGroup="61">
+          <controlProperties>
+            <icon>EmailIcon%7Csmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="8" controlTypeID="com.balsamiq.mockups::Canvas" x="119" y="27" w="245" h="97" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="61"/>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="62" controlTypeID="__group__" x="605" y="838" w="364" h="149" measuredW="364" measuredH="149" zOrder="13" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="0" w="149" h="149" measuredW="32" measuredH="32" zOrder="1" locked="false" isInGroup="62">
+          <controlProperties>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="35" y="64" w="-1" h="-1" measuredW="78" measuredH="21" zOrder="2" locked="false" isInGroup="62">
+          <controlProperties>
+            <text>Profile%20Image</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Title" x="157" y="38" w="-1" h="-1" measuredW="192" measuredH="23" zOrder="3" locked="false" isInGroup="62">
+          <controlProperties>
+            <size>20</size>
+            <text>Motaquillah%20Maddane</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Paragraph" x="157" y="62" w="192" h="14" measuredW="275" measuredH="80" zOrder="4" locked="false" isInGroup="62">
+          <controlProperties>
+            <text>Fullstack%20developer</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Icon" x="157" y="85" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="5" locked="false" isInGroup="62">
+          <controlProperties>
+            <icon>LinkGlobeIcon%7Csmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::Icon" x="190" y="85" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="6" locked="false" isInGroup="62">
+          <controlProperties>
+            <icon>TwitterIcon%7Csmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::Icon" x="225" y="85" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="7" locked="false" isInGroup="62">
+          <controlProperties>
+            <icon>RedditIcon%7Csmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::Icon" x="256" y="85" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="8" locked="false" isInGroup="62">
+          <controlProperties>
+            <icon>EmailIcon%7Csmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="8" controlTypeID="com.balsamiq.mockups::Canvas" x="119" y="27" w="245" h="97" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="62"/>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="63" controlTypeID="__group__" x="605" y="838" w="364" h="149" measuredW="364" measuredH="149" zOrder="14" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="0" w="149" h="149" measuredW="32" measuredH="32" zOrder="1" locked="false" isInGroup="63">
+          <controlProperties>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="35" y="64" w="-1" h="-1" measuredW="78" measuredH="21" zOrder="2" locked="false" isInGroup="63">
+          <controlProperties>
+            <text>Profile%20Image</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Title" x="157" y="38" w="-1" h="-1" measuredW="192" measuredH="23" zOrder="3" locked="false" isInGroup="63">
+          <controlProperties>
+            <size>20</size>
+            <text>Motaquillah%20Maddane</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Paragraph" x="157" y="62" w="192" h="14" measuredW="275" measuredH="80" zOrder="4" locked="false" isInGroup="63">
+          <controlProperties>
+            <text>Fullstack%20developer</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Icon" x="157" y="85" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="5" locked="false" isInGroup="63">
+          <controlProperties>
+            <icon>LinkGlobeIcon%7Csmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::Icon" x="190" y="85" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="6" locked="false" isInGroup="63">
+          <controlProperties>
+            <icon>TwitterIcon%7Csmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::Icon" x="225" y="85" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="7" locked="false" isInGroup="63">
+          <controlProperties>
+            <icon>RedditIcon%7Csmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::Icon" x="256" y="85" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="8" locked="false" isInGroup="63">
+          <controlProperties>
+            <icon>EmailIcon%7Csmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="8" controlTypeID="com.balsamiq.mockups::Canvas" x="119" y="27" w="245" h="97" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="63"/>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="64" controlTypeID="__group__" x="1032" y="838" w="364" h="149" measuredW="364" measuredH="149" zOrder="15" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="0" w="149" h="149" measuredW="32" measuredH="32" zOrder="1" locked="false" isInGroup="64">
+          <controlProperties>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="35" y="64" w="-1" h="-1" measuredW="78" measuredH="21" zOrder="2" locked="false" isInGroup="64">
+          <controlProperties>
+            <text>Profile%20Image</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Title" x="157" y="38" w="-1" h="-1" measuredW="192" measuredH="23" zOrder="3" locked="false" isInGroup="64">
+          <controlProperties>
+            <size>20</size>
+            <text>Motaquillah%20Maddane</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Paragraph" x="157" y="62" w="192" h="14" measuredW="275" measuredH="80" zOrder="4" locked="false" isInGroup="64">
+          <controlProperties>
+            <text>Fullstack%20developer</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Icon" x="157" y="85" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="5" locked="false" isInGroup="64">
+          <controlProperties>
+            <icon>LinkGlobeIcon%7Csmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::Icon" x="190" y="85" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="6" locked="false" isInGroup="64">
+          <controlProperties>
+            <icon>TwitterIcon%7Csmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::Icon" x="225" y="85" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="7" locked="false" isInGroup="64">
+          <controlProperties>
+            <icon>RedditIcon%7Csmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::Icon" x="256" y="85" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="8" locked="false" isInGroup="64">
+          <controlProperties>
+            <icon>EmailIcon%7Csmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="8" controlTypeID="com.balsamiq.mockups::Canvas" x="119" y="27" w="245" h="97" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="64"/>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>
